@@ -113,23 +113,6 @@ Worked on web development using technologies including:
 
 ---
 
-## 📊 GitHub Stats
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-malunjkar&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakshi-malunjkar&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-malunjkar&layout=compact&theme=tokyonight)
-
----
 
 ## 🌱 Currently Learning
 
