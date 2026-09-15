@@ -143,8 +143,8 @@ Worked on web development using technologies including:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sakshi-malunjkar)
+- 📧 Email: sakshimalunjkar1@gmail.com
 - 💻 GitHub: [@sakshi-malunjkar](https://github.com/sakshi-malunjkar)
 
 ---
